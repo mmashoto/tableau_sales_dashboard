@@ -131,7 +131,7 @@ The project delivers two purpose-built dashboards, each focused on a distinct an
 - **Customer Dashboard** - surfaces customer behaviour, segmentation, and engagement insights
 ![Customer Dashboard](docs/dashboard_image_customers.png)
 
-Click **[here](https://public.tableau.com/app/profile/mashoto.makobe/viz/CompassCartSalesandCustomerDashboard/SalesDashboard)** to view the interactive dashboard on Tableau Public
+<body>Click **[here](https://public.tableau.com/app/profile/mashoto.makobe/viz/CompassCartSalesandCustomerDashboard/SalesDashboard)** to view the interactive dashboard on Tableau Public</body>
 ---
 
 ## Author
