@@ -1,6 +1,6 @@
             
 <div align="center">
-  <img width="120px" src="images/dashboard_images/Logo.png" alt="Company Logo"/>
+  <img width="120px" src="images/dashboard_icons/Logo.png" alt="Company Logo"/>
 </div>
 
 <h1 align="center"><strong>Dashboard Design Process</strong></h1>
