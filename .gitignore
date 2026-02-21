@@ -2,3 +2,5 @@
 *.drawio
 # ignore Microsoft Word Document file
 *.docx
+#ignore Tableau Packaged Workbooks
+*.twbr
