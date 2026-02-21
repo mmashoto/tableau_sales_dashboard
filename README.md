@@ -3,6 +3,10 @@
   <img width="120px" src="images/dashboard_icons/Logo.png" alt="Company Logo"/>
 </div>
 
+<div style="text-align: center;">
+  <img width="120" src="images/dashboard_icons/Logo.png" alt="Company Logo"/>
+</div>
+
 <h1 align="center"><strong>Dashboard Design Process</strong></h1>
 
 <p align="center">
